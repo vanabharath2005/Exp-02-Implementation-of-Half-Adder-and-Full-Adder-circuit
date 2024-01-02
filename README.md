@@ -1,5 +1,4 @@
-### Name: VANA BHARATH.D
-### Roll No: 23000857
+
 # Experiment 03: Implementation of Half Adder and Full Adder circuit
 # AIM
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
